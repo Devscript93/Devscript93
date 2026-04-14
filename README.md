@@ -1,1 +1,1 @@
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-Arch-1793D1?logo=CachyOS-linux&logoColor=white)
+![CachyOS](https://img.shields.io/badge/CachyOS-Linux-00AEEF?style=for-the-badge)

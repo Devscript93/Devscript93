@@ -22,15 +22,11 @@
 
 
 
-
-
 <p>
-  <img src="https://img.shields.io/badge/CachyOS-Arch--based-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge"/>
 </p>
-
-
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>

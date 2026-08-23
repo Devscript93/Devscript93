@@ -24,7 +24,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white&style=for-the-badge"/>
 </p>
 
 <p>

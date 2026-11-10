@@ -24,7 +24,5 @@
 
 
 <p>
-  <img src="https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=white&style=for-the-badge"/>
 </p>
-
-
